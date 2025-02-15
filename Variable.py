@@ -13,4 +13,10 @@ if is_student:
 else:
     print("You are not student")
 
+
+# To check the Type of Varabile in py
 print(type(age))
+print(type(name))
+print(type(salary))
+print(type(is_student))
+
